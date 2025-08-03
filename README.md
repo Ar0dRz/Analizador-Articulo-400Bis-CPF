@@ -10,8 +10,8 @@ Este repo desglosa artículos en listas de verbos, objetos, condiciones, etc., y
 
 ## Archivos incluidos
 
-- **generar_fraccion_I.py**: Script Python para Fracción I del Art. 400 Bis (genera CSV con 270 combinaciones).
-- **generar_fraccion_II.py**: Script Python para Fracción II (genera CSV con 168 combinaciones).
+- **Fraccion_I.py**: Script Python para Fracción I del Art. 400 Bis (genera CSV con 270 combinaciones).
+- **Fraccion_II.py**: Script Python para Fracción II (genera CSV con 168 combinaciones).
 - **combinaciones_fraccion_I.csv** y **combinaciones_fraccion_II.csv**: Resultados generados, listos para importar a Excel.
 
 ## Cómo usarlo
