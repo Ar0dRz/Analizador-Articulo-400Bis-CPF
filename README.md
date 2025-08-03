@@ -1,5 +1,5 @@
 # Analizador-Articulo-400Bis-Código Penal Federal (México)
-Herramienta para generar combinaciones exhaustivas de artículos de ley (ej: Art. 400 Bis CPF sobre lavado de dinero).
+Herramienta para generar combinaciones exhaustivas de artículos de ley (ej: Art. 400 Bis CPF sobre lavado de dinero). [Código Penal](https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf)
 
 # Generador de Combinaciones Legales
 
